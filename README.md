@@ -1,6 +1,6 @@
-# portfolio-website
+# myPortfolio Website
 
-Hi guys! This is my personal portfolio-website (always) in making :)
+This is my personal portfolio website.
+Here you will find information about me, my tech stack, my projects & you can also read the blogs I have written!
 
-Here you can know about me, my tech-stack, my projects & also read the blogs I have written!
 ## [Link](https://myportfolio2311.netlify.app/)
